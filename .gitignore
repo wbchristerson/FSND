@@ -4,6 +4,8 @@ venv
 node_modules/
 .idea
 package-lock.json
+FlaskRecap/env
+*.pyc
 
 # OS generated files #
 ######################
